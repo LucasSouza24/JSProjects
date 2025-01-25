@@ -1,3 +1,3 @@
 # JSProjects
 
-Neste repositório, você encontrará alguns projetos desenvolvidos durante meus estudos em JavaScript.
+Neste repositório, reúno projetos desenvolvidos durante minha jornada de aprendizado em JavaScript.
